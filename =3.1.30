@@ -1,0 +1,5 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: gitpython in /home/capston/.local/lib/python2.7/site-packages (2.1.15)
+Requirement already satisfied: gitdb2<3,>=2 in /home/capston/.local/lib/python2.7/site-packages (from gitpython) (2.0.6)
+Requirement already satisfied: smmap2>=2.0.0 in /home/capston/.local/lib/python2.7/site-packages (from gitdb2<3,>=2->gitpython) (3.0.1)
+Requirement already satisfied: smmap>=3.0.1 in /home/capston/.local/lib/python2.7/site-packages (from smmap2>=2.0.0->gitdb2<3,>=2->gitpython) (3.0.5)
